@@ -1,0 +1,11 @@
+id,name,age,city,phoneno,institute,college,skills
+1,jay,20,ahemdabad,1234,rw,su,python
+2,raj,18,surat,2345,tops,ku,django
+3,ayush,21,ahemdabad,3456,rw,au,mern
+4,aryan,22,bavla,4567,rw,iu,fullstack
+5,sumit,20,thaltej,5678,none,su,python
+6,ronny,21,khokhra,6789,gopal,su,django
+7,urvish,23,maninagar,7890,rw,iit,python
+8,utsav,22,bopal,8901,rw,iu,Da
+9,devarsh,19,bopal,9012,guru,khyati,devops
+10,samyak,19,bopal,0123,guru,ku,devops

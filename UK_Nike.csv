@@ -1,0 +1,20 @@
+,Sale_ID,Date,Brand,Shoe_Type,Color,Country,Sales_Channel,Price_USD,Units_Sold,Revenue_USD
+0,S1,2025-11-24,Nike,Boots,Blue,UK,Online,112.4,4,449.6
+2,S3,2025-08-05,Nike,Running,White,UK,Mall,191.04,2,382.08
+33,S34,2025-02-02,Nike,Sneakers,Grey,UK,Mall,238.75,11,2626.25
+89,S90,2025-12-19,Nike,Formal,White,UK,Mall,133.89,1,133.89
+96,S97,2025-06-13,Nike,Casual,White,UK,Retail Store,145.0,18,2610.0
+109,S110,2025-05-07,Nike,Sneakers,White,UK,Online,46.94,7,328.58
+126,S127,2025-09-09,Nike,Running,Blue,UK,Retail Store,209.96,15,3149.4
+211,S212,2025-11-25,Nike,Running,Blue,UK,Online,182.22,20,3644.4
+221,S222,2025-08-16,Nike,Sports,Grey,UK,Online,155.03,3,465.09
+533,S534,2025-08-23,Nike,Sneakers,Red,UK,Retail Store,152.19,12,1826.28
+543,S544,2025-12-23,Nike,Formal,Green,UK,Retail Store,177.77,11,1955.47
+565,S566,2025-12-08,Nike,Running,Green,UK,Mall,159.78,6,958.68
+696,S697,2025-06-10,Nike,Formal,Blue,UK,Online,93.5,2,187.0
+734,S735,2025-10-13,Nike,Running,Green,UK,Mall,108.94,20,2178.8
+762,S763,2025-07-15,Nike,Boots,Black,UK,Retail Store,84.67,5,423.35
+786,S787,2025-10-03,Nike,Boots,Black,UK,Mall,158.35,18,2850.3
+798,S799,2025-11-28,Nike,Sneakers,Grey,UK,Online,183.26,12,2199.12
+821,S822,2025-09-05,Nike,Casual,Red,UK,Online,31.02,12,372.24
+930,S931,2025-01-10,Nike,Sneakers,Black,UK,Online,60.66,5,303.3

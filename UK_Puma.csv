@@ -1,0 +1,19 @@
+,Sale_ID,Date,Brand,Shoe_Type,Color,Country,Sales_Channel,Price_USD,Units_Sold,Revenue_USD
+5,S6,2025-03-23,Puma,Sports,White,UK,Retail Store,64.32,14,900.48
+27,S28,2025-02-27,Puma,Casual,Black,UK,Mall,143.13,12,1717.56
+35,S36,2025-02-04,Puma,Running,Grey,UK,Retail Store,207.85,2,415.7
+122,S123,2025-01-15,Puma,Casual,Red,UK,Retail Store,99.96,16,1599.36
+129,S130,2025-06-30,Puma,Sports,Blue,UK,Online,142.36,15,2135.4
+195,S196,2025-02-16,Puma,Boots,Red,UK,Online,106.83,10,1068.3
+276,S277,2025-07-05,Puma,Sports,White,UK,Retail Store,205.62,1,205.62
+460,S461,2025-12-13,Puma,Formal,Green,UK,Mall,55.86,18,1005.48
+468,S469,2025-06-07,Puma,Sports,Black,UK,Online,79.19,15,1187.85
+513,S514,2025-11-14,Puma,Running,Red,UK,Online,220.53,2,441.06
+539,S540,2025-05-09,Puma,Boots,Green,UK,Online,58.42,3,175.26
+588,S589,2025-07-21,Puma,Formal,Blue,UK,Online,58.17,11,639.87
+644,S645,2025-07-18,Puma,Formal,Blue,UK,Retail Store,56.35,6,338.1
+747,S748,2025-07-29,Puma,Sneakers,White,UK,Online,149.58,4,598.32
+802,S803,2025-04-24,Puma,Casual,Black,UK,Mall,156.78,20,3135.6
+890,S891,2025-02-21,Puma,Sneakers,Blue,UK,Mall,188.9,11,2077.9
+920,S921,2025-08-15,Puma,Formal,Blue,UK,Retail Store,221.06,10,2210.6
+951,S952,2025-06-15,Puma,Sneakers,Grey,UK,Online,176.31,15,2644.65
